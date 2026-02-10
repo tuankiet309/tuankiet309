@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nguyen Tuan Kiet
 - I'm working in web/app development field, but quite interested in game dev.
 - I'm currently learning about Cocos and Unity.
-- 📫 How to reach me [...](https://www.facebook.com/tuankiet309203/)
+- 📫 How to reach me [...](https://www.facebook.com/nguyentuankiet309203/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have to take down my previous github account cause i named it a really weird and unprofessional name T-T
 
